@@ -15,6 +15,7 @@
 //
 @Library("edgex-global-pipelines@experimental") _
 
+// no changes, only for testing
 edgeXBuildGoApp (
     project: 'sample-service',
     buildExperimentalDockerImage: true,
